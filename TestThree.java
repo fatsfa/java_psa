@@ -9,7 +9,12 @@ class Test{
         while(i<=10){
             if(i++ == 5)
             continue;
+           
             System.out.println(i);
+        }
+         for(int eid : eids){
+            System.out.println(eid);
+            
         }
         
     }
