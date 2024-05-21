@@ -12,10 +12,7 @@ class Test{
            
             System.out.println(i);
         }
-         for(int eid : eids){
-            System.out.println(eid);
-            
-        }
+        
         
     }
 }
