@@ -6,5 +6,9 @@ class Test{
             System.out.println(eid);
             
         }
+         for(int eid : eids){
+            System.out.println(eid);
+            
+        }
     }
 }
