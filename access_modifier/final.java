@@ -8,7 +8,7 @@
           System.out.println(a);
     }
 }
-//  class child extends A{
-//     void m1();
-//  }
+ class child extends A{
+    void m1();
+}
 
