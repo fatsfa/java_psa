@@ -3,12 +3,12 @@
 
     }
     public static void main(String[] args){
-        //  final int a = 100;
+          final int a = 100;
         //  a = 200;
-        //  System.out.println(a);
+          System.out.println(a);
     }
 }
- class child extends A{
-    void m1();
- }
+//  class child extends A{
+//     void m1();
+//  }
 
